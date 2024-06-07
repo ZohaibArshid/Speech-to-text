@@ -1,0 +1,15 @@
+numpy==1.24
+datasets
+huggingface-cli
+#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
+#watch -n 1 nvidia-smi
+jiwer
+soundfile
+librosa
+evaluate
+transformers[torch]
+whisper
+faster-whisper
+moviepy
+bitsandbytes
+=0.21.0
