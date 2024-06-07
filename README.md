@@ -62,9 +62,7 @@ python .\train\fine-tune_on_custom_dataset.py --train_datasets "DatasetSplit/tra
 
 ```
 
-## Contact
-* [Muhammad Waqar](https://www.linkedin.com/in/muhammad-waqar-1a594411a/)
-* [Email](waqarsahi621@gmail.com)
+
 
 
 
